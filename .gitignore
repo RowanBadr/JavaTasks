@@ -1,0 +1,16 @@
+# ===== Java =====
+*.class
+*.log
+
+# ===== IntelliJ IDEA =====
+.idea/
+*.iml
+out/
+
+# ===== Build folders =====
+/build/
+/target/
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
